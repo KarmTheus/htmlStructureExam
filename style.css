@@ -1,0 +1,40 @@
+h1 {
+ color: #828664;
+}
+.begtitle {
+    color: #54af9a;
+}
+.begin {
+    background-color:#54af9a;
+    color: antiquewhite
+}
+.explore {
+    color: #31153e;
+}
+.ie {
+    background-color:#31153e ;
+     color: #ffffc7;
+}
+.browse {
+    color: hsl(151, 11%, 51%);
+}
+.bw {
+    background-color:gainsboro ;
+    color: gray;
+}
+.secure {
+    color:gray;
+}
+.st {
+    background-color:gray ;
+    color: rgb(109, 45, 66);
+}
+.sd {
+    background-color: blanchedalmond;
+}
+#shutdown {
+    color: brown;
+}
+#cc {
+    color: #2834AD;
+}
