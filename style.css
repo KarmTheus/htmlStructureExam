@@ -38,3 +38,15 @@ h1 {
 #cc {
     color: #2834AD;
 }
+
+
+
+header{
+    font-size: 40px;
+    font-family: fantasy;
+    color:red
+}
+.htrans :hover{
+    color:skyblue;
+    
+}
