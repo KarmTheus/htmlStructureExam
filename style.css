@@ -46,7 +46,7 @@ header{
     font-family: fantasy;
     color:red
 }
-.htrans :hover{
+.htrans:hover{
     color:skyblue;
     
 }
